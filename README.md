@@ -1,4 +1,4 @@
-# payment-card-enumerator-python
+# payment-card-number-enumerator-python
 
 Card enumerator: enter the PAN (Payment Account Number) with missing digits to enumerate each possible payment card number.
 
